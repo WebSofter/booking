@@ -2,6 +2,8 @@
 
 Author David Amirkhanov (websofter) [https://wsofter.ru](https://wsofter.ru)
 
+DEMO of this project on my VDS by link [https://booking.wsofter.ru](https://booking.wsofter.ru)
+
 A hotel **booking system** that allows the user to log in through the Auth 0 system and gain access to search and booking
 
 ![Laravel 6 crud booking app demo screenshot](https://i.ibb.co/sbkb98J/screen-1.png)
