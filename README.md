@@ -13,7 +13,7 @@ A hotel **booking system** that allows the user to log in through the Auth 0 sys
 **Clone the repo**
 
 ```bash
-git clone https://github.com/hollylawly/travel-planet-crud.git
+git clone https://github.com/WebSofter/booking
 ```
 
 **Switch into the newly created repo folder**
